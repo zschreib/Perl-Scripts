@@ -17,3 +17,6 @@ Takes in a cd-hit cluster file and pulls out clusters only containing a at least
 
 ##### tara_contig_pull.pl
 Accepts list of tara ocean ORF headers and pulls out all ORFs and representative sequence belonging to those specific headers.
+
+##### uniprot_to_kegg.pl
+Utilizes KEGGS convert API to submit a large volume of Uniprot IDs so that they can be converted to KEGG ids.
